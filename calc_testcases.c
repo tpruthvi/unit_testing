@@ -1,4 +1,4 @@
-#include "test_cases.h"
+#include "calc_header.h"
 void test_addition(void)
 {
     assert(addition(0,2) == 2);
